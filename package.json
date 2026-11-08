@@ -16,10 +16,10 @@
   "homepage": "https://heytoasty.sejan.workers.dev/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sejanH/hetoasty-toastr.git"
+    "url": "git+https://github.com/sejanH/heytoasty-toastr.git"
   },
   "bugs": {
-    "url": "https://github.com/sejanH/hetoasty-toastr/issues"
+    "url": "https://github.com/sejanH/heytoasty-toastr/issues"
   },
   "files": [
     "dist",
