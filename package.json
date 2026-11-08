@@ -1,6 +1,6 @@
 {
   "name": "heytoasty",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tiny vanilla JS/TS toast notification library extracted from the HeyToasty admin panel. Zero dependencies, injected CSS, imperative API.",
   "type": "module",
   "main": "./dist/index.cjs",
